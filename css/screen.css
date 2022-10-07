@@ -1,5 +1,4 @@
-@media screen and (max-width: 480px){
-	label {
+ label {
 		display: inline-block;
 		color: black;
 		background: lightgray;
@@ -54,4 +53,5 @@
 		font-family: 'Inter', sans-serif;
 	}
 
-}
+    @media screen and (max-width: 480px){
+    }
