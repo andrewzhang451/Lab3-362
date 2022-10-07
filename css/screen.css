@@ -1,0 +1,57 @@
+@media screen and (max-width: 480px){
+	label {
+		display: inline-block;
+		color: black;
+		background: lightgray;
+		margin-right: 15px;
+		margin-left: 20px;
+		font-size: 1.3em;
+		height: 5px;
+		padding: 20px 50px;
+		margin-bottom:10px;
+	}
+
+	input{
+		height: 50px;
+		margin-bottom: 10px;
+		font-family: 'Inter', sans-serif;
+	}
+
+	div{
+		display: inline;
+	}
+
+	body{
+		padding: 75px;
+	}
+
+	label {
+		font-family: 'Inter', sans-serif;
+	}
+
+	p, h1{
+		font-family: 'Inter', sans-serif;
+		font-size: 1.5em;
+		padding: 5px;
+	}
+	
+	#input-email {
+		background-color: lightgray;
+		margin-top: 15px;
+		text-align: center;
+	}
+
+	#input-age-verification {
+		background-color: lightgray;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		text-align: center;
+		padding-bottom: 15px;
+
+	}
+
+	#input-submit {
+		font-family: 'Inter', sans-serif;
+	}
+
+}
